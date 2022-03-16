@@ -1,2 +1,2 @@
 # protogen
-Protobuf generation for Go/Python/Typescript
+Protobuf code generator for Go/Python/Typescript
